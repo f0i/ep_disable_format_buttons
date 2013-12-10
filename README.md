@@ -1,20 +1,9 @@
-# Etherpad-Lite plugins
+# Disable format buttons
 
-- Markdownify: Inline markdown formating (ep_markdownify)
-- Disable format buttons (ep_disable_format_buttons)
+Etherpad Lite plugin to disable all formating buttons.
 
-# Installation
-  
-    cd <your/etherpad/installation>;
-    npm install <path-to/etherpad-plugins/plugin-name>
-    
-or
-  
-    npm install <plugin-name>
+Project page at [projects.f0i.de](https://projects.f0i.de/etherpad/markdownify.md).
 
+## Credits
 
-Where `plugin-name` is
-
-* ep_markdownify (MIT)
-* ep_disable_format_buttons (GPLv3)
-
+This plugin is based on ep_disable_lists by @wtsi-hgi.
